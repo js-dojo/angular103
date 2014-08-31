@@ -1,0 +1,12 @@
+{
+  "name":"Angular103",
+  "description":"Advancing from basics to serious angular programming",
+  "version":"1.0.0",
+  "repository":"https://github.com/js-dojo/angular103",
+  "dependencies":{
+    "express":"latest"
+  },
+  "devDependencies":{
+    "gulp":"latest"
+  }
+}

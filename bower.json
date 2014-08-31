@@ -1,0 +1,9 @@
+{
+  "name":"Angular103",
+  "descripton":"Advancing from basics to serious angular programming",
+  "version":"1.0.0",
+  "dependencies":{
+    "angular":"latest",
+    "bootstrap-css":"latest"
+  }
+}
