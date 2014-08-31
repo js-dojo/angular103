@@ -4,6 +4,11 @@
   "version":"1.0.0",
   "dependencies":{
     "angular":"latest",
-    "bootstrap-css":"latest"
+    "bootstrap-css":"latest",
+    "font-awesome":"latest",
+
+    "angular-ui-router":"latest",
+    "angular-animate":"latest",
+    "angular-strap":"latest"
   }
 }
